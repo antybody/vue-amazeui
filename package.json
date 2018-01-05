@@ -1,6 +1,6 @@
 {
-  "name": "vue-amazeui",
-  "version": "1.1.4",
+  "name": "vue-amui",
+  "version": "2.0.0",
   "description": "vue amaze ui",
   "author": "zjhr",
   "private": false,
@@ -53,7 +53,7 @@
   "main": "./dist/static/js/vue-amazeui.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zjhr/vue-amazeui.git"
+    "url": "git+https://github.com/antybody/vue-amazeui.git"
   },
   "keywords": [
     "vue-amazeui"
